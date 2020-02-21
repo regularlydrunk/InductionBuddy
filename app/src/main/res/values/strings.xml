@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Induction</string>
+    <string name="title_home">Home</string>
+    <string name="title_map">Map</string>
+    <string name="title_skiddle">Skiddle</string>
+
+
+    <string-array name="Venues">
+        <item>Bar/Pub</item>
+        <item>Nightclub</item>
+        <item>Live Music</item>
+        <item>Outdoor Venue</item>
+        <item>Theatre</item>
+        <item>Sports Ground</item>
+        <item>Gallery</item>
+    </string-array>
+
+    <string-array name="Distance">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>5+</item>
+    </string-array>
+
+    <string-array name="Event_Type">
+        <item>Festivals</item>
+        <item>Live</item>
+        <item>Club</item>
+        <item>Dating</item>
+        <item>Theater/Dance</item>
+        <item>Comedy</item>
+        <item>Exhibitions</item>
+        <item>Kids/Family</item>
+        <item>Bar/Pub</item>
+        <item>Gay/Lesbian</item>
+        <item>Sports</item>
+        <item>Arts</item>
+    </string-array>
+
+</resources>
